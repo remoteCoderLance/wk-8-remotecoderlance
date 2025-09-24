@@ -1,7 +1,7 @@
 -- =============================================
 -- Library Management System Database
--- Author: [Your Name]
--- Date: [Current Date]
+-- Author: Cedric ABBEY
+-- Date: 23/09/2025
 -- =============================================
 
 -- Create Database
